@@ -1,3 +1,3 @@
 # BlazorApp
- first web app with Blazor.
+.Net WebApp Blazor
 
